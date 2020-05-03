@@ -12,7 +12,7 @@ categories:
   - Uncategorized
 ---
 <!-- wp:paragraph -->
-<p>Nginx Helper is a supplement plugin when using Nginx's built-in FastCGI Caching. Without this tool, one needs to implement a way to force expire an existing cache entry that corresponds to a WordPress public object, i.e. any view that comes with a public URL.</p>
+<p><a href="https://wordpress.org/plugins/nginx-helper/">Nginx Helper</a> is a supplement plugin when using Nginx's built-in FastCGI Caching. Without this tool, one needs to implement a way to force expire an existing cache entry that corresponds to a WordPress public object, i.e. any view that comes with a public URL.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
